@@ -11,7 +11,7 @@ In this lab, we'll be working in a TV show domain. We have a TV show model, the
 You'll be required not only to write a migration that creates a `shows` table
 and gives the `Show` class certain attributes, but also to use Active Record's
 querying methods.
-
+ 
 ### Active Record Querying Methods
 
 Active Record makes it easy to ask our database for certain information and
